@@ -3,8 +3,11 @@ The repository contains challenges and projects from the Build Responsive Real-W
 
 ### Resources
 <br>
-<a href="https://codingheroes.io/resources/">Jonas Schmedtmann's Resources/>
+<a href="https://codingheroes.io/resources/">Jonas Schmedtmann's Resources</a>
 
 ### Projects
 <br>
+
+<ol>
+ <li>Using HTML Fundamentals for a web page regarding HTML - 
  
