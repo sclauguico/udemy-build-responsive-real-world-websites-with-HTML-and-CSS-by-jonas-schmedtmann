@@ -9,5 +9,6 @@ The repository contains challenges and projects from the Build Responsive Real-W
 <br>
 
 <ol>
- <li>Using HTML Fundamentals for a web page regarding HTML - 
+ <li> HTML and CSS Article using Basic HTML and CSS 
+ <li> E-Commerce Site with Basic HTML and CSS - <a href="https://sclauguico.github.io/ecommerce-converse-basic-html-css/"> 
  
