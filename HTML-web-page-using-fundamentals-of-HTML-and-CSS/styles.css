@@ -121,9 +121,9 @@ li:last-child {
 }
 
 /* Misconception: this won't work! */
-article p:first-child {
+/* article p:first-child {
   color: red;
-}
+} */
 
 /* Styling links */
 
