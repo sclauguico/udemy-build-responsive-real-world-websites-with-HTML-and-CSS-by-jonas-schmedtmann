@@ -16,5 +16,5 @@ The repository contains challenges and projects from the Build Responsive Real-W
  <li> HTML Web Page using CSS Float Example - 
  <li> E-Commerce Page using CSS Float Challenge- <a href="https://sclauguico.github.io/e-commerce-CSS-float/">E-Commerce Page with Float</a>
  <li> HTML Web Page using CSS Flexbox Example- <a href="https://sclauguico.github.io/html-page-flexbox/">HTML Page with Flexbox</a>
-  <li> E-Commerce Page using CSS Float Challenge- <a href="https://sclauguico.github.io/e-commerce-css-flexbox/E-Commerce Page with Flexbox</a>
+ <li> E-Commerce Page using CSS Flexbox Challenge- <a href="https://sclauguico.github.io/e-commerce-css-flexbox/">E-Commerce Page with Flexbox</a>
 </ol>
