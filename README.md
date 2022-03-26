@@ -22,5 +22,5 @@ The repository contains challenges and projects from the Build Responsive Real-W
  <li> Components and Layout Patterns: Accordion - <a href="https://sclauguico.github.io/accordion-component/">Accordion Component</a>
  <li> Components and Layout Patterns: Carousel - <a href="https://sclauguico.github.io/carousel-component/">Carousel Component</a>
  <li> Components and Layout Patterns: Table - <a href="https://sclauguico.github.io/table-component/">Table Component</a>
-
+ <li> Components and Layout Patterns: Pagination - <a href="https://sclauguico.github.io/pagination-component/">Pagination Component</a>
 </ol>
