@@ -19,4 +19,5 @@ The repository contains challenges and projects from the Build Responsive Real-W
  <li> HTML Web Page using CSS Grid Example - <a href="https://sclauguico.github.io/html-page-grid/?">HTML Page with CSS Grid</a>
  <li> E-Commerce Page using CSS Flexbox Challenge - <a href="https://sclauguico.github.io/e-commerce-css-grid/">E-Commerce Page with CSS Grid</a>
  <li> Applying Web Design Rules and Framework - <a href="https://sclauguico.github.io/chairs-e-commerce-web-design-rules-framework/">Chairs E-Commerce Page Applying Web Design Rules and Framework</a>
+   <li> Components and Layout Patterns - Accordion - <a href="https://sclauguico.github.io/accordion-component/">Accordion Component</a>
 </ol>
