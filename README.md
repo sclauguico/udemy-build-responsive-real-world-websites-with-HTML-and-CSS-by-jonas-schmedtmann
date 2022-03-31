@@ -24,5 +24,5 @@ The repository contains challenges and projects from the Build Responsive Real-W
  <li> Components and Layout Patterns: Table - <a href="https://sclauguico.github.io/table-component/">Table Component</a>
  <li> Components and Layout Patterns: Pagination - <a href="https://sclauguico.github.io/pagination-component/">Pagination Component</a>
  <li> Components and Layout Patterns: Hero - <a href="https://sclauguico.github.io/hero-component/">Hero Component</a>
-  <li> Components and Layout Patterns: Email App Layout - <a href="https://sclauguico.github.io/mail-app-layout/">Email App Layour</a>
+  <li> Components and Layout Patterns: Email App Layout - <a href="https://sclauguico.github.io/mail-app-layout/">Email App Layout</a>
 </ol>
