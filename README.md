@@ -9,7 +9,7 @@ The repository contains challenges and projects from the Build Responsive Real-W
 <br>
 
 <ol>
- <li> HTML Web Page using Basic HTML Example -  <a href="https://sclauguico.github.io/html-page-basic-html/ "target="_blank">HTML Page with Basic HTML</a>
+ <li> HTML Web Page using Basic HTML Example -  <a href="https://sclauguico.github.io/html-page-basic-html/" target="_blank">HTML Page with Basic HTML</a>
  <li> E-Commerce Page using Basic HTML Challenge - <a href="https://sclauguico.github.io/ecommerce-converse-basic-html-css/" target="_blank">E-Commerce Page with Basic HTML</a>
  <li> HTML Web Page using Basic CSS Example - <a href="https://sclauguico.github.io/html-page-basic-css?/" target="_blank">HTML Page with Basic CSS</a>
  <li> E-Commerce Page using Basic CSS Challenge- <a href="https://sclauguico.github.io/e-commerce-page-basic-css/" target="_blank">E-Commerce Page with Basic CSS</a> 
