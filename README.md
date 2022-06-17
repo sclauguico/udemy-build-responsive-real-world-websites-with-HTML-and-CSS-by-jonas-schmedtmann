@@ -27,4 +27,5 @@ The repository contains challenges and projects from the Build Responsive Real-W
  <li> Components and Layout Patterns: Email App Layout - <a href="https://sclauguico.github.io/mail-app-layout/">Email App Layout</a>
  <li> Omnifood Project Desktop Version - <a href="https://sclauguico.github.io/omnifood-project-desktop/">Omnifood Desktop</a>
  <li> Omnifood Project Responsive Version - <a href="https://sclauguico.github.io/omnifood-project-responsive/">Omnifood Responsive</a>
+  <li> Final Omnifood Project (Optimized Version) - <a href="https://omnifood-sandy.netlify.app/">Omnifood Responsive</a>
 </ol>
