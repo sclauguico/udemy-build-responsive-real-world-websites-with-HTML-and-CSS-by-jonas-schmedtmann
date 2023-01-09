@@ -1,5 +1,6 @@
 # Udemy-Build-Responsive-Real-World-Websites-with-HTML-and-CSS-by-Jonas-Schmedtmann
 The repository contains challenges and projects from the Build Responsive Real-World Websites with HTML and CSS taught by Jonas Schmedtmann.
+Link to the awesome course <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank">here</a>!
 
 ### Resources
 <br>
