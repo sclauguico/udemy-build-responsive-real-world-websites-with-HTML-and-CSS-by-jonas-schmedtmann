@@ -29,7 +29,7 @@ Link to the awesome course <a href="https://www.udemy.com/course/design-and-deve
  <li> <a href="https://sclauguico.github.io/pagination-component/" target="_blank">Components and Layout Patterns: Pagination</a>
  <li> <a href="https://pagination-component-sandy.netlify.app/" target="_blank">Components and Layout Patterns: Hero</a>
  <li> <a href="https://email-app-layout-sandy.netlify.app/" target="_blank">Components and Layout Patterns: Email App Layout</a>
- <li> Omnifood Project Desktop Version - <a href="https://sclauguico.github.io/omnifood-project-desktop/" target="_blank">Omnifood Desktop</a>
- <li> Omnifood Project Responsive Version - <a href="https://sclauguico.github.io/omnifood-project-responsive/" target="_blank">Omnifood Responsive</a>
-  <li> Final Omnifood Project (Optimized Version) - <a href="https://omnifood-sandy.netlify.app/" target="_blank">Omnifood Optimized</a>
+ <li> <a href="https://omnifood-desktop-version-sandy.netlify.app/" target="_blank">Omnifood Project Desktop Version</a>
+ <li> <a href="https://omnifood-responsive-version-sandy.netlify.app/" target="_blank">Omnifood Project Responsive Version</a>
+ <li> <a href="https://omnifood-optimized-version-sandy.netlify.app/" target="_blank">Omnifood Project Optimized Version</a>
 </ol>
